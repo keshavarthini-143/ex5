@@ -6,8 +6,11 @@
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
 ## FORMULA:
 <p>P = I<sup>2</sup>R
+ 
 P --> Power (in watts)
+
  I --> Intensity
+ 
  R --> Resistance</p>
 
 ## DESIGN STEPS:
